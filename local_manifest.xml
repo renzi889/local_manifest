@@ -8,9 +8,11 @@
          fetch="https://github.com/NerdZ3ns" />
  <remote name="xdroid-devices"
          fetch="https://github.com/xdroid-devices" />
+ <remote name="pixelecperience-devices"
+         fetch="https://github.com/PixelExperience-Devices />
 
  <!-- tree -->
- <project path="device/asus/X01BD" name="xd_device_asus_X01BD" remote="xdroid-devices" revision="twelve" />
+ <project path="device/asus/X01BD" name="device_asus_X01BD" remote="pixelecperience-devices" revision="twelve" />
  <project path="device/asus/sdm660-common" name="xd_device_asus_sdm660-common" remote="xdroid-devices" revision="twelve" />
  <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="zens" revision="twelve" />
  <project path="vendor/asus" name="proprietary_vendor_asus" remote="zens" revision="twelve-4.4" />
