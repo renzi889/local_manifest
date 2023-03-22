@@ -16,3 +16,5 @@
  <project path="device/asus/sdm660-common" name="xd_device_asus_sdm660-common" remote="xdroid-devices" revision="twelve" />
  <project path="kernel/asus/sdm660" name="android_kernel_asus_sdm660" remote="zens" revision="twelve" />
  <project path="vendor/asus" name="proprietary_vendor_asus" remote="zens" revision="twelve-4.4" />
+
+</manifest>
