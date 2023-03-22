@@ -8,7 +8,7 @@
          fetch="https://github.com/NerdZ3ns" />
  <remote name="xdroid-devices"
          fetch="https://github.com/xdroid-devices" />
-<remote name="pixelexperience-devices"
+ <remote name="pixelexperience-devices"
          fetch="https://github.com/PixelExperience-Devices" />
 
  <!-- trees -->
