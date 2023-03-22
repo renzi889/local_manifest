@@ -8,6 +8,8 @@
          fetch="https://github.com/NerdZ3ns" />
  <remote name="xdroid-devices"
          fetch="https://github.com/xdroid-devices" />
+<remote name="pixelexperience-devices"
+         fetch="https://github.com/PixelExperience-Devices" />
 
  <!-- trees -->
  <project path="device/asus/X01BD" name="device_asus_X01BD" remote="pixelexperience-devices" revision="twelve" />
